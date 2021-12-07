@@ -1,0 +1,10 @@
+2021-12-07 10:12:538 INFO  ServiceHooks:34 - Login into the application with valid credentials is Failed
+2021-12-07 10:12:418 INFO  ServiceHooks:34 - Login into the application with valid credentials and sign out is Failed
+2021-12-07 10:12:174 INFO  ServiceHooks:34 - Login into the application with invalid credentials is Failed
+2021-12-07 10:12:925 INFO  ServiceHooks:34 - Searching different products after login is Failed
+2021-12-07 10:12:653 INFO  ServiceHooks:34 - Validate all the navigation menu in Home Page is Failed
+2021-12-07 10:12:45 INFO  ServiceHooks:34 - Validate User able to add a product in cart is Failed
+2021-12-07 10:12:958 INFO  ServiceHooks:34 - Validate all the menu in My Account page is Failed
+2021-12-07 10:12:719 INFO  ServiceHooks:34 - validate all the tabs are clickable is Failed
+2021-12-07 10:12:534 INFO  ServiceHooks:34 - Validate correct email-id while creating new user is Failed
+2021-12-07 10:12:234 INFO  ServiceHooks:34 - Create a new User is Failed
